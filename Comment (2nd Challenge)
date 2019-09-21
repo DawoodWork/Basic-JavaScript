@@ -1,0 +1,6 @@
+// Example
+
+var ourName;
+
+// Declare myName under this line
+var myName;
